@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+    padding: 30px ;
+}
+.navContainer{
+    margin-bottom: 40px;
+}
+.ForNav{
+    font-size: 0;
+}
+.ItemStyle{
+    background-color: #4c996b;
+    color: white;
+    text-align: center;
+    border:1px solid #3f8059;
+}
+.Item > a{
+    width: 100%;
+}
+.Item{
+    text-transform: capitalize;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 150px;
+    color: white;
+    font-size: 20px;
+    padding: 20px 30px;
+
+}
+a{
+    text-decoration: none;
+}
+li:hover{
+    background-color: white;
+}
